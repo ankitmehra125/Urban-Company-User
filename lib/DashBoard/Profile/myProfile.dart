@@ -484,7 +484,6 @@ class _MyProfileState extends State<MyProfile> {
     );
   }
 
-
 }
 
 
@@ -611,4 +610,6 @@ class _AnimatedAlertDialogState extends State<AnimatedAlertDialog> with SingleTi
     );
   }
 }
+
+
 

@@ -58,6 +58,7 @@ dependencies:
   dotted_line: ^3.2.2
   youtube_player_flutter: ^9.0.1
   smooth_page_indicator: ^1.1.0
+  animated_toggle_switch: ^0.8.2
 
 dev_dependencies:
   flutter_test:
