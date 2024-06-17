@@ -7,6 +7,7 @@ import 'package:usc_project/DashBoard/Beauty/beauty_page.dart';
 import 'package:usc_project/DashBoard/BottomNav.dart';
 import 'package:usc_project/DashBoard/uscPlus/uscPlus_page.dart';
 
+// For local Stroage
 final authentication = GetStorage();
 
 void main()
@@ -39,6 +40,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
+
 
 
 
